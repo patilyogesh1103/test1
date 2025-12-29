@@ -3,4 +3,5 @@ update 2
 feature 123
 =======
 bugfix 1
->>>>>>> main
+
+new updated
